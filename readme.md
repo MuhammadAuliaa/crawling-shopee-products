@@ -1,5 +1,5 @@
 # 🛒 Shopee Product Scraper (Apify + Python)
-# Crawling Data Shopee Youtube (Tutorial) : ...
+# Crawling Data Shopee Youtube (Tutorial) : https://youtu.be/oAzTbsH-58I?si=FSW0cY8GSpUUDbYu
 
 Project ini adalah **scraper produk Shopee** menggunakan [Apify Actor](https://apify.com) dan Python.  
 Tujuannya untuk mengambil data produk seperti **nama, harga, stok, rating, kategori, gambar, dan lokasi pengiriman** lalu menyimpannya ke format **Excel** untuk analisis lebih lanjut.  
